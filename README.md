@@ -1,4 +1,17 @@
-# Field-Simulation
+# Methods and Applications of Electromagnetic Field Simulation using Finite Integration Techniques
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/paulffm/Methods-and-Applications-of-Electromagnetic-Field-Simulation-using-FIT/blob/main/LICENSE)
+
+This repository contains implementations of Finite integrations technqiues from the paper [A discretization model for the solution of Maxwell's equations for six-component fields](https://ui.adsabs.harvard.edu/abs/1977ArElU..31..116W/abstract) by T. Weiland to simulate electromagnetic field problems.
+
+<p align="center">
+  <img src="time_reversal_concept.png"  alt="1" width = 685px height = 465px >
+</p>
+
+## Overview
+
+The repository is divided into seven distinct tasks. I will only provide a short overview here in this readme. A detailed description of each task and its solution can be found in the [protokellheft](https://github.com/paulffm/Methods-and-Applications-of-Electromagnetic-Field-Simulation-using-FIT/blob/main/Protokollheft.pdf).
+
 ## Task 1:
 - Eigenvalue solver and convergence study
 - Discretization of 3D objects
