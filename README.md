@@ -5,7 +5,7 @@
 This repository contains implementations of Finite integrations technqiues from the paper [A discretization model for the solution of Maxwell's equations for six-component fields](https://ui.adsabs.harvard.edu/abs/1977ArElU..31..116W/abstract) by T. Weiland to simulate electromagnetic field problems.
 
 <p align="center">
-  <img src="time_reversal_concept.png"  alt="1" width = 685px height = 465px >
+  <img src="field_simulation.png"  alt="1" width = 777px height = 620px >
 </p>
 
 ## Overview
