@@ -45,17 +45,13 @@ Electromagnetic field simulation is crucial for various engineering applications
   
 ## Task 7:
 - Investigation of the high frequency problem in the time domain with lines and ports
-- different line termination, different current excitations (reflection study)
+- Different line termination, different current excitations (reflection study)
 
 ## Task 8:
 - Analysis of high-frequency phenomena in the frequency domain using transmission lines and ports. This involves examining signals through [Discrete Fourier Transformations](https://uvceee.wordpress.com/wp-content/uploads/2016/09/digital_signal_processing_principles_algorithms_and_applications_third_edition.pdf) to gain insights into their frequency characteristics. Additionally, we investigate scattering parameters as a further aspect of our analysis.
-- different line termination, different current excitations (reflection study)
+- Different line termination, different current excitations (reflection study)
 
 Detailed descriptions of each task and their outcomes can be found in the [report](https://github.com/paulffm/Methods-and-Applications-of-Electromagnetic-Field-Simulation-using-FIT/blob/main/Protokollheft.pdf).
-
-## Visualization
-
-Visualizations of electromagnetic fields obtained from simulations are provided in the repository to aid in understanding the results. These visualizations include...
 
 ## Conclusion
 
