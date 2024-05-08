@@ -27,18 +27,18 @@ Electromagnetic field simulation is crucial for various engineering applications
 - Interpolation of fields
 
 ## Task 4:
-- solver for the electrostatic problem
-- solver for the magnetostatic problem
+- Implementation of a solver for the electrostatic problem
+- Implementation of a solver for the magnetostatic problem
 - calculation of capacities
 - visualization and convergence study
 - 
 ## Task 5:
-- solver for the magnetoquasistatic problem (vector and scalar) in frequency domain
-- solver for the magnetoquasistatic problem (vector and scalar) in time domain
+- Implementation of a solver for the magnetoquasistatic problem (vector and scalar) in frequency domain
+- Implementation of a solver for the magnetoquasistatic problem (vector and scalar) in time domain
 - error calculation and convergence study
   
 ## Task 6:
-- solution for the high frequency problem in the time domain with Leapfrog
+- Implementation of a solver using the [leapfrog method](https://www.sciencedirect.com/science/article/abs/pii/0375960190900923) for the high frequency problem in the time domain 
 - study of the stability
 - calculation of energy and power
   
